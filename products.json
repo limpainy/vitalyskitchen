@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" New York Pizza",
+        "price": 4.99,
+        "image": "New York Pizza.png"
+    },
+    {
+        "id": 2,
+        "name":" Greek Pizza",
+        "price": 3.99,
+        "image": "Greek Pizza.png"
+    },
+    {
+        "id": 3,
+        "name":" Hawaiian Pizza",
+        "price": 5.99,
+        "image": "Hawaiian Pizza.png"
+    },
+    {
+        "id": 4,
+        "name":" Deep Dish Pizza",
+        "price": 2.99,
+        "image": "Deep Dish Pizza.png"
+    },
+    {
+        "id": 5,
+        "name":" Sicilian Pizza",
+        "price": 5.99,
+        "image": "Sicilian Pizza.png"
+    },
+    {
+        "id": 6,
+        "name":" Imo's Pizza",
+        "price": 3.99,
+        "image": "Imo's Pizza.png"
+    },
+    {
+        "id": 7,
+        "name":" Detroit Pizza",
+        "price": 1.99,
+        "image": "Detroit Pizza.png"
+    },
+    {
+        "id": 8,
+        "name":" cheese pizza",
+        "price": 6.99,
+        "image": "cheese pizza.png"
+    }
+
+]

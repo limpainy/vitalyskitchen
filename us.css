@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Jaro:opsz@6..72&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.back {
+    width: auto;
+    height: 160vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(68, 67, 67, 0.75)), url('pizza_back.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.spacing {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 15px;
+}
+
+.img {
+    width: 300px;
+    height: 240px;
+    border-radius: 10px;
+    transition: 0.5s;
+}
+
+.img:hover {
+    transform: scale(1.1);
+}
+
+.intro {
+    color: rgb(255, 255, 255);
+    font-family: "Jaro", sans-serif;
+    text-align: center;
+    font-size: 70px;
+    margin-bottom: 50px;
+}
+
+.desc {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+    display: inline-block;
+    width: 250px;
+}
+
+.name {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+}
+
+.centering {
+    text-align: center;
+    background: rgba(0, 0, 0, 0);
+    padding: 20px;
+    border-radius: 20px;
+}
